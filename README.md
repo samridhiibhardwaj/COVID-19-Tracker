@@ -1,3 +1,11 @@
+# COVID-19 Tracker
+
+A COVID-19 Tracker Application. Corona Virus is, unfortunately, spreading through the entire world. What can we, as developers, do to make the situation better? We can help to spread awareness by visualizing the data.
+
+### [Live Site](https://coronatrackerbysamridhi.netlify.app)
+
+<img width="1440" alt="4" src="https://user-images.githubusercontent.com/91188761/149633968-89b3bde6-589f-4143-b992-ddd1a9203768.png">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
